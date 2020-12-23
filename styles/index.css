@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.focus {
+  color: rgb(253, 9, 9);
+  border-bottom: 2px solid rgb(207, 16, 16);
+}
